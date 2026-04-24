@@ -1,0 +1,11 @@
+{
+  "name": "pong-game",
+  "version": "1.0.0",
+  "main": "backend.js",
+  "scripts": {
+    "start": "node backend.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
